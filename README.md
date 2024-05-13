@@ -1,6 +1,7 @@
 # Intro
-Hey there, my name is Alex and this is a *digital graveyard* for my open-source *gamedev* projects that have died at different stages of completeness 
-(*proof of concept*, *prototype* or *playable demo*). Press preview icon below to navigate to corresponding project repository.
+Hey there, my name is Alex and this is a *digital graveyard* of my open-source *gamedev* projects that have been abandoned in different stages of development (*proof of concept*, *prototype* or *playable demo*). 
+
+Press preview icon below to navigate to corresponding project repository.
 
 # My projects
 | Preview | Description | Downloads |
